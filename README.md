@@ -8,3 +8,5 @@ No me he acostumbrado pero estoy aprendiendo a manejar esto, todavia quiero camb
 Me salio bien creo, me gustaria modificarle el tamaño y ponerlo un poco mas al medio la imagen, ahora intentare insertar un video de como utilizae git por si solo. XD
 
 [video soy dalto](https://www.bing.com/videos/riverview/relatedvideo?q=soy+dalto+GIT&mid=BA03A4EDDFD9F3393835BA03A4EDDFD9F3393835&FORM=VIRE)
+
+[ ! [Alt text] (https://img.youtube.com/vi/https://youtu.be/9ZJ-K-zk_Go) ]
