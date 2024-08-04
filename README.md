@@ -9,4 +9,8 @@ Me salio bien creo, me gustaria modificarle el tamaño y ponerlo un poco mas al 
 
 [video soy dalto](https://www.bing.com/videos/riverview/relatedvideo?q=soy+dalto+GIT&mid=BA03A4EDDFD9F3393835BA03A4EDDFD9F3393835&FORM=VIRE)
 
-[ ! [Alt text] (https://img.youtube.com/vi/https://youtu.be/9ZJ-K-zk_Go) ]
+TODO MAL, intentare despues subir el video.
+Me voy a ver videos, goodbye.
+![screeshot of girl tired.](https://th.bing.com/th/id/R.f33b6d14602edac178df7bc7b91be8c7?rik=Bq4dm3zde%2fPlSg&pid=ImgRaw&r=0)
+
+
